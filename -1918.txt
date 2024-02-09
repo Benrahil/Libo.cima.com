@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Libo Cima</title>
+    <style>
+        body {
+            background-color: white;
+            color: black;
+            text-align: center;
+            padding: 50px;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            display: inline-block;
+            margin-right: 10px;
+        }
+        a {
+            text-decoration: none;
+            color: red;
+            font-weight: bold;
+        }
+        a:hover {
+            color: darkred;
+        }
+    </style>
+</head>
+<body>
+    <h1>انتظرونا</h1>
+    <p>المحتوى قيد التحضير...</p>
+    <p>يدار الموقع من قبل حسام 🇱🇾</p>
+    <ul>
+        <li><a href="#about">نحن</a></li>
+    </ul>
+    <p>نحن أول موقع ليبي يختص بالأفلام والمسلسلات بشكل مجاني وبدون إعلانات.</p>
+</body>
+</html>
