@@ -24,5 +24,10 @@ Libo cima
     <p>موقع Libo Cima يرحب بكم</p>
     <p>انتظرونا قريبا</p>
     <p>تحيات حسام 🇱🇾</p>
-</body>
+</body><script>
+  var password = prompt("Please enter the password");
+  if (password !== "mypassword") {
+    document.body.innerHTML = "Access denied!";
+  }
+</script>
 </html>
