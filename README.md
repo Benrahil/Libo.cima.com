@@ -1,5 +1,3 @@
-# Libo.cima
-Libo cima
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -24,3 +22,5 @@ Libo cima
     <p>موقع Libo Cima يرحب بكم</p>
     <p>انتظرونا قريبا</p>
     <p>تحيات حسام 🇱🇾</p>
+</body>
+</html>
