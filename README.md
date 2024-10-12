@@ -24,7 +24,3 @@ Libo cima
     <p>موقع Libo Cima يرحب بكم</p>
     <p>انتظرونا قريبا</p>
     <p>تحيات حسام 🇱🇾</p>
-<div class="github-repo-info">
-    <!-- ‏this site is open source.improve this page 
- -->
-</div>
