@@ -25,9 +25,3 @@ Libo cima
     <p>انتظرونا قريبا</p>
     <p>تحيات حسام 🇱🇾</p>
 </body><script>
-  var password = prompt("Please enter the password");
-  if (password !== "mypassword") {
-    document.body.innerHTML = "Access denied!";
-  }
-</script>
-</html>
